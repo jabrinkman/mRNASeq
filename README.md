@@ -1,2 +1,3 @@
 # mRNASeq
-Core code for mRNAseq analysis
+Core code for mRNAseq exploratory analysis in R with DESeq
+for IDHmut-p53 project. 
